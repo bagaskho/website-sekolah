@@ -63,8 +63,3 @@ Start the server
   php artisan serve
 ```
 
-## Authors
-
-- [@r-aozora](https://github.com/r-aozora)
-- [@codezeros18](https://github.com/codezeros18)
-- [@cykmila](https://github.com/cykmila)
