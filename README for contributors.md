@@ -29,12 +29,4 @@ Tutorial ada [di sini](https://youtu.be/BJu1Qcul7ig)
 - `git status`
 - `git pull`
 
-## Credit
 
-Tim 6
-- [Citra](https://github.com/r-aozora)
-- [Lintang](https://github.com/codezeros18)
-- [Amanda](https://github.com/cykmila)
-- Fiana
-
-2023
